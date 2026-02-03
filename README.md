@@ -1,13 +1,27 @@
-### 🧩 Pokedevs
+# Pokedevs ✨
+Projeto desenvolvido com fins educacionais durante um workshop introdutório de desenvolvimento web.  
+O Pokedevs representa meu primeiro contato prático com a criação de páginas web e com a manipulação de elementos na interface, marcando o início da minha jornada como desenvolvedora.
 
-🚀 O projeto [Pokedevs](https://roberta-silva.github.io/projeto-pokedev/) foi desenvolvido durante um evento de programação introdutório de desenvolvimento web, com foco em HTML, CSS e JavaScript.
-<br>
-🎯 O objetivo foi ter uma primeira interação prática com criação de páginas web e manipulação de elementos na interface.
+> Status do projeto: Concluído ✔️
 
-### 🛠️ Tecnologias utilizadas
-- 🌐 HTML
-- 🎨 CSS
-- ⚙️ JavaScript
-  
-📝Este projeto foi desenvolvido com fins educacionais, como parte de um workshop de curta duração.
-Representa um primeiro passo na jornada como desenvolvedora web.
+## Acesse o projeto
+🔗 [https://roberta-silva.github.io/projeto-pokedev/](https://roberta-silva.github.io/projeto-pokedev/)
+
+## Funcionalidades
+- Exibição de personagens no layout
+- Interação visual com elementos da interface
+- Atualização de conteúdo com base em ações do usuário
+
+## Objetivos técnicos
+- Primeira experiência prática com HTML, CSS e JavaScript
+- Estruturação básica de páginas web
+- Manipulação de elementos da interface com JavaScript
+- Compreensão inicial do funcionamento do DOM
+
+## Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+## 👀 Preview
+<img src="./preview.png" alt="Preview da aplicação Pokedevs" width="600">
